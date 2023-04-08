@@ -1,6 +1,8 @@
 # Alarm-Clock using Vanilla JavaScript
 This is a simple alarm clock web application built using Vanilla JavaScript. It allows users to set an alarm by selecting the hour, minute, and AM/PM, and then clicking the "Set Alarm" button. Once the alarm is set, it will count down to the designated time and then trigger an alert sound.
 
+![alarm-clock](https://user-images.githubusercontent.com/108632700/230734785-721e2f17-cf06-40e5-800d-8fc744d16bbe.png)
+
 # Features
 - Clock face
 - Set Alarm
